@@ -2,7 +2,7 @@ import logo from "../assets/lottelogo.png";
 
 const Header = () => {
   return (
-    <div className="flex w-200 absolute pt-3 pb-2 top-3 text-gray-400 font-semibold z-20 justify-between border-b border-slate-400">
+    <div className="flex w-200  pt-3 pb-2  text-gray-400 font-semibold justify-between border-b border-slate-400">
       <div className="flex w-1/5 justify-around text-xs items-center">
         <p>페이스북</p>
         <p>유튜브</p>

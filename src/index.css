@@ -10,3 +10,7 @@
   line-height: 0.75rem; /* 12px */
   border-color: rgb(148 163 184);
 }
+
+.slick-slide > div {
+  margin: 0 10px;
+}
